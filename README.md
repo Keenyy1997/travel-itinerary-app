@@ -12,4 +12,4 @@
 - [ ] Posibility to `drag` the existing `markers` and updating his `destination coords`
 
 **URL**
-Coming soon...
+[Go to **Travel Itinerary App**](https://dazzling-wilson-9268b6.netlify.app/)
