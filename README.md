@@ -3,7 +3,7 @@
 **Description:** This `react application` will allow you to generate a **Customizable Travel Itinerary** for your destination!
 
 **CHECKLIST**
-- [ ] Have the map working 
+- [X] Have the map working 
 - [ ] Be possible to add `markers` dinamically
 - [ ] Clicking in `point` of the map will open a `formulary` to add a new **destination**
 - [ ] You could add more than one `marker` in the map
