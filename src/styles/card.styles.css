@@ -1,0 +1,10 @@
+.card {
+  display: inline-block;
+  margin: 0.25em;
+  padding: 0.5em;
+  width: auto;
+  height: 100%;
+  min-height: 2em;
+  box-shadow: rgba(0,0,0,.15) 1px 1px 5px;
+  border-radius: 7.5px;
+}
